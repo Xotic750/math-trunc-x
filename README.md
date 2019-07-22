@@ -28,7 +28,7 @@ Get the integer part of a number.
 
 ### `module.exports(value)` ⇒ <code>number</code> ⏏
 
-This method clamp a number to min and max limits inclusive.
+This method returns the integer part of a number by removing any fractional digits.
 
 **Kind**: Exported function  
 **Returns**: <code>number</code> - The truncated number.
