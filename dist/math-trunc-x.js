@@ -2,13 +2,13 @@
 {
   "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2019-present",
-  "date": "2019-07-27T13:43:07.797Z",
+  "date": "2019-07-27T14:13:46.049Z",
   "describe": "",
   "description": "Get the integer part of a number.",
   "file": "math-trunc-x.js",
-  "hash": "fe99d50d860c108b0fd3",
+  "hash": "937c4af5cee1301b82c8",
   "license": "MIT",
-  "version": "1.0.8"
+  "version": "1.0.9"
 }
 */
 (function webpackUniversalModuleDefinition(root, factory) {
@@ -1253,8 +1253,6 @@ var binaryRadix = 2;
 var octalRadix = 8;
 var testCharsCount = 2;
 var to_number_x_esm_ERROR_MESSAGE = 'Cannot convert a Symbol value to a number';
-/** @type {NumberConstructor} */
-
 var to_number_x_esm_castNumber = testCharsCount.constructor;
 var pStrSlice = to_number_x_esm_ERROR_MESSAGE.slice;
 var binaryRegex = /^0b[01]+$/i;
