@@ -2,7 +2,7 @@
 {
   "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2019-present",
-  "date": "2019-08-04T14:15:05.471Z",
+  "date": "2019-08-04T19:30:52.263Z",
   "describe": "",
   "description": "Get the integer part of a number.",
   "file": "math-trunc-x.js",
