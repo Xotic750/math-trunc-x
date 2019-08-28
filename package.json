@@ -1,6 +1,6 @@
 {
   "name": "math-trunc-x",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Get the integer part of a number.",
   "homepage": "https://github.com/Xotic750/math-trunc-x",
   "author": {
@@ -51,7 +51,7 @@
     "url": "https://github.com/Xotic750/math-trunc-x/issues"
   },
   "dependencies": {
-    "to-number-x": "^3.2.1"
+    "to-number-x": "^3.2.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.5.5",

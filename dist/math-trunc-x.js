@@ -2,13 +2,13 @@
 {
   "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2019-present",
-  "date": "2019-08-28T15:11:35.793Z",
+  "date": "2019-08-28T17:06:33.470Z",
   "describe": "",
   "description": "Get the integer part of a number.",
   "file": "math-trunc-x.js",
   "hash": "fc1ec912b398e1e9c110",
   "license": "MIT",
-  "version": "1.2.1"
+  "version": "1.2.2"
 }
 */
 (function webpackUniversalModuleDefinition(root, factory) {
